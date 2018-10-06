@@ -4,7 +4,6 @@ package usbreset
 
 import (
 	"errors"
-	"fmt"
 	"os"
 	"syscall"
 )
